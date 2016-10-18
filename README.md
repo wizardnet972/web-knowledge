@@ -2,6 +2,7 @@
 
 #stackoverflow
 
+* [How to implement a typescript decorator?](http://stackoverflow.com/questions/29775830/how-to-implement-a-typescript-decorator)
 * [Why do browsers match CSS selectors from right to left?](http://stackoverflow.com/questions/5797014/why-do-browsers-match-css-selectors-from-right-to-left)
 * [Why is nested CSS selector applied from bottom-up?](http://stackoverflow.com/questions/20131264/why-is-nested-css-selector-applied-from-bottom-up?noredirect=1&lq=1)
 * [Is CSS faster when you are specific?](http://stackoverflow.com/questions/29421373/is-css-faster-when-you-are-specific?noredirect=1&lq=1)
